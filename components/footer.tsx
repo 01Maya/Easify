@@ -78,7 +78,7 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-gray-700 pt-8">
           <p className="text-gray-400 text-center text-xs md:text-sm">
-            © 2025 Maya's Journal — All rights reserved. Built with ❤️ using Next.js
+            © 2025 Easify — All rights reserved. Built with ❤️🍀
           </p>
         </div>
       </motion.div>
