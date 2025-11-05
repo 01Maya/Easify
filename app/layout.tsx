@@ -14,7 +14,6 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Maya's Journal",
   description: "Discover small habits that lead to a better life — one step at a time.",
-  generator: "v0.app",
 };
 
 export default function RootLayout({
