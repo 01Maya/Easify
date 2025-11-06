@@ -46,7 +46,7 @@ With subtle UI motion effects and intuitive navigation, Easify ensures a calm ye
 ## 🔍 Live Preview  
 Explore the live website here:
 
-👉 **https://easify-one.vercel.app/**
+👉 https://easify-one.vercel.app/
 
 ---
 
