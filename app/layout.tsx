@@ -12,7 +12,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Maya's Journal",
+  title: "Easify",
   description: "Discover small habits that lead to a better life — one step at a time.",
 };
 
