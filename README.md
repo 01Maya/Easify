@@ -51,7 +51,8 @@ Explore the live website here:
 ---
 
 ## 🖼️ Screenshot  
-*(Add your project screenshot file here)*
+
+![Image](https://github.com/user-attachments/assets/b54714a4-a327-44a0-bfa6-448c55c0294d)
 
 
 ---
