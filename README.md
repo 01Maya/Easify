@@ -1,6 +1,6 @@
 # Easify  
 
-**Ease in. Level up. Live better.**  
+**Ease in🍀 Level up✨ Live better❤️**  
 *Intelligent reads for evolving minds.*
 
 ## 🪶 Overview  
