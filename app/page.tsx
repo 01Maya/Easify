@@ -20,7 +20,7 @@ const categories = [
 export default function Home() {
   const [isScrolled, setIsScrolled] = useState(false)
   const [currentWord, setCurrentWord] = useState(0)
-  const words = ["Ease in🍀", "Level up.", "Live better❤️"]
+  const words = ["Ease in🍀", "Level up⚡", "Live better❤️"]
 
   // Scroll behavior
   useEffect(() => {
