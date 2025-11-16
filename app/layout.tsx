@@ -12,7 +12,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Easify",
+  title: "Easify - Ease in. Level up. Live better.",
   description: "Ease in. Level up. Live better. Discover small habits that lead to a better life — one step at a time.",
 };
 
