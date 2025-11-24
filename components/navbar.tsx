@@ -18,6 +18,7 @@ export default function Navbar({ isScrolled }: NavbarProps) {
     { label: "Health", href: "/health" },
     { label: "Lifestyle", href: "/lifestyle" },
     { label: "Work", href: "/work" },
+    { label: "Meditation", href: "/meditation" },
     { label: "Japanese Tricks", href: "/japanese" },
   ]
 
