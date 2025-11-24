@@ -8,7 +8,7 @@ import { ArrowLeft } from "lucide-react"
 import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
 import ExpandableCard from "@/components/expandable-card"
-import { productivityData, businessData, healthData, lifestyleData, workData, japaneseData } from "@/lib/content"
+import { productivityData, businessData, healthData, lifestyleData, workData, meditationData, japaneseData } from "@/lib/content"
 
 const categoryConfig = {
   productivity: {
