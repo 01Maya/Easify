@@ -46,6 +46,13 @@ const categoryConfig = {
     bgColor: "bg-purple-100",
     data: workData,
   },
+  meditation: {
+    title: "Meditation Practices",
+    subtitle: "Mindful meditation practices.",
+    color: "from-lime-400 to-lime-500",
+    bgColor: "bg-lime-100",
+    data: meditationData,
+  },
     japanese: {
     title: "Japanese Tricks",
     subtitle: "Japanese productivity hacks.",
