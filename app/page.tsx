@@ -14,6 +14,7 @@ const categories = [
   { id: "health", title: "Health", subtitle: "Daily wellness routines", color: "from-green-500 to-green-600", icon: "💚" },
   { id: "lifestyle", title: "Lifestyle", subtitle: "Mindful living habits", color: "from-orange-500 to-orange-600", icon: "🌟" },
   { id: "work", title: "Work", subtitle: "Professional excellence habits", color: "from-purple-400 to-purple-500", icon: "💼" },
+  { id: "meditation", title: "Meditation", subtitle: "Mindful meditation practices", color: "from-lime-400 to-lime-500", icon: "🧘🏻" }, 
   { id: "japanese", title: "Japanese Tricks", subtitle: "Japanese productivity hacks", color: "from-pink-400 to-pink-500", icon: "💡" },
 ]
 
