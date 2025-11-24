@@ -375,3 +375,66 @@ export const japaneseData = [
     tip: "In tough moments, take a deep breath and respond calmly — resilience shines in silence.",
   },
 ]
+
+export const meditationData = [
+  {
+    title: "Mindful Breathing",
+    description:
+      "The foundation of most meditation practices — simply sit comfortably and bring your full attention to the natural rhythm of your breath. It helps calm the mind and anchor you in the present moment.",
+    tip: "Don’t control your breathing — just observe it. When your mind wanders, gently return your focus to your breath without judgment.",
+  },
+  {
+    title: "The Body Scan",
+    description:
+      "Lie down and slowly bring awareness to each part of your body, starting from your toes and moving upward. This practice promotes deep relaxation and helps you notice tension you may be holding.",
+    tip: "Visualize a warm, gentle light moving through your body as you scan. It helps your mind stay engaged and calm.",
+  },
+  {
+    title: "The 5-4-3-2-1 Grounding Technique",
+    description:
+      "A simple grounding exercise to ease anxiety and reconnect with your surroundings. Use your senses to notice five things you see, four you feel, three you hear, two you smell, and one you taste.",
+    tip: "Try this anywhere — even in public — to center yourself when feeling overwhelmed or anxious.",
+  },
+  {
+    title: "Walking Meditation",
+    description:
+      "Turn a simple walk into a mindfulness practice by focusing on each step, the movement of your legs, and the feeling of your feet touching the ground. It builds awareness and presence in motion.",
+    tip: "Walk slowly and deliberately without rushing to a destination. Notice the rhythm of your body and the sounds around you.",
+  },
+  {
+    title: "Loving-Kindness Meditation",
+    description:
+      "A gentle practice that cultivates compassion and positive emotions. Start by wishing yourself well, then extend that kindness to others — friends, strangers, and even those you find difficult.",
+    tip: "Silently repeat phrases like ‘May I be happy. May I be healthy. May I be safe.’ Then shift from ‘I’ to ‘you’ as you think of others.",
+  },
+  {
+    title: "Mindful Listening",
+    description:
+      "Focus on listening without judgment or labeling. Whether in nature or a noisy café, simply observe the sounds around you — noticing how they rise, change, and fade.",
+    tip: "Close your eyes to deepen your focus. Treat every sound as part of a symphony rather than background noise.",
+  },
+  {
+    title: "Mindful Observation",
+    description:
+      "Choose a small object — a plant, a leaf, or a stone — and observe it with curiosity. Notice colors, textures, and patterns without naming or analyzing them.",
+    tip: "Imagine seeing it for the first time. This simple practice enhances focus, patience, and appreciation for small details.",
+  },
+  {
+    title: "The Three-Breath Pause",
+    description:
+      "A micro-meditation that takes less than a minute. Stop what you’re doing, take three slow, intentional breaths, and reset your focus.",
+    tip: "Use it as a mini-reset between tasks or during stress. Inhale through your nose, exhale through your mouth, and release tension.",
+  },
+  {
+    title: "Noting Your Thoughts",
+    description:
+      "Instead of getting lost in your thoughts, observe them from a distance. Label each one briefly — like ‘planning,’ ‘worrying,’ or ‘remembering’ — and let it pass.",
+    tip: "Imagine your thoughts as clouds drifting across the sky. Watch them float by without chasing or judging them.",
+  },
+  {
+    title: "Mindful Appreciation",
+    description:
+      "A simple gratitude practice that helps shift focus toward positivity. Reflect on three specific things you’re thankful for from your day, no matter how small.",
+    tip: "Do this before sleep. Ending your day with gratitude promotes calm and improves rest quality.",
+  },
+]
