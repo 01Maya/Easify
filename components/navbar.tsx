@@ -19,7 +19,7 @@ export default function Navbar({ isScrolled }: NavbarProps) {
     { label: "Lifestyle", href: "/lifestyle" },
     { label: "Work", href: "/work" },
     { label: "Meditation", href: "/meditation" },
-    { label: "Japanese Tricks", href: "/japanese" },
+    { label: "Exercise", href: "/exercise" },
   ]
 
   return (
