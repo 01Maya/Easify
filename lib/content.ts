@@ -438,3 +438,66 @@ export const meditationData = [
     tip: "Do this before sleep. Ending your day with gratitude promotes calm and improves rest quality.",
   },
 ]
+
+export const exerciseData = [
+  {
+    title: "Burpees",
+    description:
+      "A full-body exercise that combines a squat, plank, push-up, and jump into one continuous movement. It builds strength, endurance, and cardiovascular fitness all at once.",
+    tip: "For an easier version, skip the push-up and jump — step back to plank and stand up. You’ll still get an effective workout.",
+  },
+  {
+    title: "Squats",
+    description:
+      "A foundational lower-body movement that strengthens your quads, hamstrings, glutes, and core. Squats improve balance, stability, and overall leg strength.",
+    tip: "Stand shoulder-width apart, keep your chest lifted, and push your hips back as if sitting into a chair.",
+  },
+  {
+    title: "Push-ups",
+    description:
+      "A classic upper-body exercise that targets your chest, shoulders, triceps, and core. Great for building strength with no equipment.",
+    tip: "If full push-ups feel challenging, start on your knees — you’ll still build solid upper-body strength.",
+  },
+  {
+    title: "Plank",
+    description:
+      "A powerful static hold that strengthens your deep core muscles, helping improve posture, balance, and back health.",
+    tip: "Keep your body in a straight line from head to heels and avoid letting your hips sag or lift too high.",
+  },
+  {
+    title: "Mountain Climbers",
+    description:
+      "A dynamic plank variation that elevates your heart rate while working your core, legs, shoulders, and stability.",
+    tip: "Begin slowly to master form — bring your knees toward your chest while keeping your hips level before increasing speed.",
+  },
+  {
+    title: "Jumping Jacks",
+    description:
+      "A simple, full-body cardio exercise that warms up your muscles, boosts heart rate, and improves coordination.",
+    tip: "For a low-impact option, step one foot out to the side at a time instead of jumping.",
+  },
+  {
+    title: "Glute Bridges",
+    description:
+      "A highly effective move for strengthening your glutes, hamstrings, and lower back while also engaging your core.",
+    tip: "Pause at the top and squeeze your glutes firmly to maximize activation and results.",
+  },
+  {
+    title: "Bird-Dog",
+    description:
+      "A slow, controlled exercise that improves stability and balance while strengthening the core, lower back, and glutes.",
+    tip: "Move deliberately and keep your torso stable as you extend opposite arm and leg — stillness is the goal.",
+  },
+  {
+    title: "Lunges",
+    description:
+      "A unilateral exercise that trains each leg individually, helping build balanced strength and improve stability and mobility.",
+    tip: "Keep your front knee behind your toes as you lower — this protects your knees and deepens muscle engagement.",
+  },
+  {
+    title: "Supermans",
+    description:
+      "An often-overlooked move that strengthens your entire posterior chain — your back, glutes, and hamstrings.",
+    tip: "Lift your chest and thighs simultaneously while keeping your neck neutral, looking straight down.",
+  },
+]
