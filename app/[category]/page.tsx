@@ -8,7 +8,7 @@ import { ArrowLeft } from "lucide-react"
 import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
 import ExpandableCard from "@/components/expandable-card"
-import { productivityData, businessData, healthData, lifestyleData, workData, meditationData, japaneseData } from "@/lib/content"
+import { productivityData, businessData, healthData, lifestyleData, workData, meditationData, exerciseData, japaneseData } from "@/lib/content"
 
 const categoryConfig = {
   productivity: {
@@ -52,6 +52,13 @@ const categoryConfig = {
     color: "from-lime-400 to-lime-500",
     bgColor: "bg-lime-100",
     data: meditationData,
+  },
+  exercise: {
+    title: "Exercise Routines",
+    subtitle: "Effective workout routines.",
+    color: "from-sky-400 to-sky-500",
+    bgColor: "bg-sky-100",
+    data: exerciseData,
   },
     japanese: {
     title: "Japanese Tricks",
